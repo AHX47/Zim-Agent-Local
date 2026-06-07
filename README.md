@@ -5,14 +5,6 @@
 **Offline CRUD + semantic search agent for ZIM archives (Kiwix format). Read, write, edit, delete articles, build vector indexes, and serve via MCP – all offline, low‑resource.**
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/23724676-d208-4e1f-be67-26b91d473138" />
 
-
----
-
-## 📄 README.md for `zim-agent`
-
-Below is a complete, ready‑to‑use `README.md` for your ZimAgent project. Place this file in the root of your GitHub repository.
-
-```markdown
 # ZimAgent
 
 **ZimAgent** is a complete offline agent for working with **ZIM** files (the Kiwix archive format). Unlike a simple reader, it supports **CRUD** operations – you can read, write, edit, and delete articles, plus perform semantic search using **TurboRag**. It also exposes an **MCP server** so that other AI agents can manipulate ZIM archives programmatically.
