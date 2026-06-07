@@ -1,4 +1,4 @@
-# Zim-Agent-Local-ZAL-
+# Zim-Agent-Local-(ZAL)
 | ZIM CRUD agent (read/write/edit/delete) + semantic search | ZIM archives (Wikipedia)
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4396df7b-a516-451b-a1c6-ca7fd328807b" />
 
